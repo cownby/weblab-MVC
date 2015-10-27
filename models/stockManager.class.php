@@ -71,6 +71,7 @@ class StockManager
   
   private function _update($item){
     
+    $id = $item->getID();
     $name = $this->db -> quote($item->getName());
     $wood = $this->db -> quote($item->getWood());
     $dateCreated = $this->db -> quote($item->getdateCreated());   
@@ -89,12 +90,11 @@ class StockManager
 
   }
   
-  public function delete($arg){
+  public function delete($id){
     
-    if(!is_numeric($arg)) return FALSE;
+    if(!is_numeric($id)) return FALSE;
     
-      $id = $this->db -> quote($arg);
-      $results = $this->db -> query("DELETE from users where id = $id");
+      $results = $this->db -> query("DELETE from stock where id = $id");
   }
   
 }

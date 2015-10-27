@@ -21,10 +21,22 @@ class StockItem{
   public function setWood($arg){$this->_wood = $arg;}
   
   public function getdateCreated(){return $this->_dateCreated;}
-  public function setdateCreated($arg){$this->_dateCreated = $arg;}
-  
+  public function setdateCreated($arg)
+  {
+  	if ("0000-00-00" == $arg)
+  		$this->_dateCreated = '';
+  	else
+  		$this->_dateCreated = $arg;
+  } 
+    
   public function getdateSold(){return $this->_dateSold;}
-  public function setdateSold($arg){$this->_dateSold = $arg;}        
+  public function setdateSold($arg)
+  {
+  	if ("0000-00-00" == $arg)
+  		$this->_dateSold = '';
+  	else
+  		$this->_dateSold = $arg;
+  }        
   
   public function hydrate($arr) {
     $this->setID(isset($arr["id"])?$arr["id"]:'');

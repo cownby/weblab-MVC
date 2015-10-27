@@ -9,6 +9,6 @@
 <body>
 	<header>WebLab 2015</header>
 	<br /><br />
-   <h1>Stock Administration</h1>
+   <h1>MP Woodcraft Stock Administration</h1>
 
  

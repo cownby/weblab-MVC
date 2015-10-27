@@ -3,8 +3,16 @@
 	$pageTitle = "WebLab MVC Exercise - View List";
 	require_once 'common/header.php';
 ?>
-<h2>View Item List</h2><table>
+<h2>View Item List</h2>
 
+<table>
+	<tr>
+		<th>Id</th>
+		<th>Name</th>
+		<th>Wood</th>
+		<th>Date Created</th>
+		<th>Date Sold</th>
+	</tr>
   <?php foreach($items as $item){ ?>
   <tr>
     <td><?= $item->getID() ?></td>
