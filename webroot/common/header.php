@@ -3,6 +3,9 @@
 <head>
 	<title><?php echo $pageTitle; ?></title>
 	<meta name="weblab" content="weblab Exercise">
+	
+	<!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="css/base.css">
 
 </head>

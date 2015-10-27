@@ -5,32 +5,49 @@
 		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\css\base.css"/>
 		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockAddEdit.php"/>
 		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php"/>
+		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php"/>
+		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockViewList.php"/>
+		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php"/>
+		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\common\header.php"/>
+		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockItemView.php"/>
 	</lastopfiles>
 	<errors version="5.3">
 	</errors>
 	<codestructure version="5.0">
 		<phptree>
-			<treenode node="../lib/db.class.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\tracker.php;f20;10;39;10;;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f20;8;39;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="../lib/db.class.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f20;8;39;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="../lib/db.interface.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\tracker.php;f20;9;43;9;;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f20;7;43;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="../lib/db.interface.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f20;7;43;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="../models/manager.abstract.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\tracker.php;f20;12;50;12;;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f20;10;50;10;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="../models/manager.abstract.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f20;10;50;10;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="../models/stockItem.class.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f20;9;49;9;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="../models/stockManager.class.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f20;11;52;11;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
+			<treenode node="../views/stockAddEdit.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f19;31;44;31;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../views/stockItemView.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f19;21;45;21;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../views/stockViewList.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f19;54;45;54;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../lib/db.class.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\tracker.php;f20;10;39;10;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../lib/db.interface.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\tracker.php;f20;9;43;9;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../models/manager.abstract.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\tracker.php;f20;12;50;12;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
 			<treenode node="../models/user.class.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\tracker.php;f20;11;44;11;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="../models/user_manager.class.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\tracker.php;f20;13;52;13;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="../views/stockAddEdit.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\tracker.php;f19;34;44;34;;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f19;31;44;31;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="../views/stockAddEdit.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\tracker.php;f19;34;44;34;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="../views/stockItemView.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\tracker.php;f19;23;45;23;;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f19;21;45;21;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="../views/stockItemView.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\tracker.php;f19;23;45;23;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="../views/stockViewList.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\tracker.php;f19;59;45;59;;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f19;54;45;54;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="../views/stockViewList.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\tracker.php;f19;59;45;59;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="common/header.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockViewList.php;f15;3;32;3;;C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockItemView.php;f15;2;32;2;;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f15;2;32;2;;C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockAddEdit.php;f15;2;32;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="common/header.php;PHP:PHP Include;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f15;2;32;2;;C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockViewList.php;f15;3;32;3;;C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockAddEdit.php;f15;2;32;2;;C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockItemView.php;f15;2;32;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="db_interface;PHP:Interface Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.interface.php;f0;2;1;9;;;;vpos;;v;;r;;d23,2;;b0,0;;m">
 				<treenode node="connect;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.interface.php;f9;4;27;4;;;;vpos;;v;;r;;d-1,-1;;b1,0;;m">
@@ -52,19 +69,45 @@
 			</treenode>
 			<treenode node="Db;PHP:Class Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f4;1;5;79;;;;vpos;;vdb_interface;;c;;r;;d36,1;;b0,0;;m">
 				<treenode node="connect;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f15;10;9;24;;;;vpos;;vbool;;r&#xA;Description&#xA;     Connect to the database&#xA;&#xA;Return:&#xA;   false on failure / mysqli MySQLi object instance on success;;d34,10;;b1,0;;m">
+					<treenode node="config;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f16;14;23;14;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="connection;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f28;12;39;12;;;;vposmysqli;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
 				</treenode>
 				<treenode node="error;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f15;64;9;67;;;;vpos;;vstring;;r&#xA;Description&#xA;     Fetch the last error from the database&#xA;&#xA;Return:&#xA;   Database error message;;d32,64;;b1,0;;m">
+					<treenode node="connection;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f12;65;23;65;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f26;65;31;65;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
 				</treenode>
 				<treenode node="query;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f15;32;9;39;;;;vpos;;vmixed;;r&#xA;Description&#xA;     Query the database&#xA;&#xA;Parameters:&#xA;     $query - The query string&#xA;&#xA;Return:&#xA;   The result of the mysqli::query() function;;d38,32;;b1,0;;m $query;;p">
+					<treenode node="connection;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f12;34;23;34;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
 					<treenode node="query;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f30;32;36;32;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="result;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f12;36;19;36;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f26;34;31;34;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
 				<treenode node="quote;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f15;75;9;78;;;;vpos;;vstring;;r&#xA;Description&#xA;     Quote and escape value for use in a database query&#xA;&#xA;Parameters:&#xA;    string $value - The value to be quoted and escaped&#xA;&#xA;Return:&#xA;   The quoted and escaped string;;d38,75;;b1,0;;mstring $value;;p">
+					<treenode node="connection;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f12;76;23;76;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f26;76;31;76;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
 					<treenode node="value;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f30;75;36;75;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
 				<treenode node="select;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f15;47;9;57;;;;vpos;;vbool;;r&#xA;Description&#xA;     Fetch rows from the database (SELECT query)&#xA;&#xA;Parameters:&#xA;     $query - The query string&#xA;&#xA;Return:&#xA;   False on failure / array Database rows on success;;d39,47;;b1,0;;m $query;;p">
 					<treenode node="query;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f31;47;37;47;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="result;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f12;49;19;49;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="row;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f19;53;23;53;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="rows;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f12;48;17;48;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f22;49;27;49;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
 				<treenode node="connection;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php;f25;3;36;3;;;;vpos;;v;;r;;d-1,-1;;b2,5;;m">
@@ -80,13 +123,13 @@
 					</treenode>
 				</treenode>
 			</treenode>
-			<treenode node="StockItem;PHP:Class Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f0;5;1;36;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f0;5;1;36;;;;vpos;;v;;r&#xA;Description&#xA;     Wood Turned Stock Object;;d15,5;;b0,0;;m">
+			<treenode node="StockItem;PHP:Class Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f0;5;1;36;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f0;5;1;48;;;;vpos;;v;;r&#xA;Description&#xA;     Wood Turned Stock Object;;d15,5;;b0,0;;m">
 				<treenode node="getdateCreated;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f9;22;63;22;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f9;22;63;22;;;;vpos;;v;;r;;d34,22;;b1,0;;m">
 					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f42;22;47;22;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f42;22;47;22;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
-				<treenode node="getdateSold;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f9;25;57;25;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f9;25;57;25;;;;vpos;;v;;r;;d31,25;;b1,0;;m">
-					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f39;25;44;25;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f39;25;44;25;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="getdateSold;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f9;25;57;25;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f9;31;57;31;;;;vpos;;v;;r;;d31,31;;b1,0;;m">
+					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f39;25;44;25;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f39;31;44;31;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
 				<treenode node="getID;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f9;13;45;13;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f9;13;45;13;;;;vpos;;v;;r;;d25,13;;b1,0;;m">
@@ -101,22 +144,22 @@
 					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f35;19;40;19;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f35;19;40;19;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
-				<treenode node="hydrate;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f9;28;3;34;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f9;28;3;34;;;;vpos;;v;;r;;d32,28;;b1,0;;marr;;p">
-					<treenode node="arr;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f26;28;30;28;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f26;28;30;28;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="hydrate;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f9;28;3;34;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f9;40;3;46;;;;vpos;;v;;r;;d32,40;;b1,0;;marr;;p">
+					<treenode node="arr;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f26;28;30;28;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f26;40;30;40;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f26;40;30;40;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f4;29;9;29;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f4;29;9;29;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f4;29;9;29;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f4;41;9;41;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f4;41;9;41;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
-				<treenode node="setdateCreated;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f9;23;67;23;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f9;23;67;23;;;;vpos;;v;;r;;d38,23;;b1,0;;marg;;p">
+				<treenode node="setdateCreated;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f9;23;67;23;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f9;23;3;29;;;;vpos;;v;;r;;d2,24;;b1,0;;marg;;p">
 					<treenode node="arg;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f33;23;37;23;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f33;23;37;23;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f39;23;44;23;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f39;23;44;23;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f39;23;44;23;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f4;26;9;26;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
-				<treenode node="setdateSold;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f9;26;61;26;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f9;26;61;26;;;;vpos;;v;;r;;d35,26;;b1,0;;marg;;p">
-					<treenode node="arg;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f30;26;34;26;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f30;26;34;26;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="setdateSold;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f9;26;61;26;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f9;32;3;38;;;;vpos;;v;;r;;d2,33;;b1,0;;marg;;p">
+					<treenode node="arg;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f30;26;34;26;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f30;32;34;32;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f36;26;41;26;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f36;26;41;26;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f36;26;41;26;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f4;35;9;35;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
 				<treenode node="setID;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f9;14;49;14;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f9;14;49;14;;;;vpos;;v;;r;;d29,14;;b1,0;;marg;;p">
@@ -148,110 +191,110 @@
 				<treenode node="_wood;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stock.class.php;f10;9;16;9;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php;f10;9;16;9;;;;vpos;;v;;r;;d-1,-1;;b3,0;;m">
 				</treenode>
 			</treenode>
-			<treenode node="StockManager;PHP:Class Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f0;2;1;103;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f0;2;1;99;;;;vpos;;vManager;;c;;r;;d0,3;;b0,0;;m">
-				<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f1;6;2;8;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f1;6;2;8;;;;vpos;;v;;r;;d24,6;;b0,0;;m">
-					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f2;7;7;7;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f2;7;7;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="StockManager;PHP:Class Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f0;2;1;103;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f0;2;1;99;;;;vpos;;v;;r;;d0,3;;b0,0;;m">
+				<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f1;6;2;8;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f1;6;2;8;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f1;6;2;8;;;;vpos;;v;;r;;d24,6;;b0,0;;m">
+					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f2;7;7;7;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f2;7;7;7;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f2;7;7;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
-				<treenode node="_add;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f10;60;3;70;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f10;60;3;69;;;;vpos;;v;;r;;d30,60;;b3,0;;muser;;p">
+				<treenode node="_add;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f10;60;3;70;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f10;60;3;69;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f10;60;3;69;;;;vpos;;v;;r;;d30,60;;b3,0;;muser;;p">
 					<treenode node="created;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f4;66;12;66;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="dateCreated;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;64;16;64;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="dateCreated;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;64;16;64;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;64;16;64;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="dateSold;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;65;13;65;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="dateSold;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;65;13;65;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;65;13;65;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="db;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f4;61;7;61;;;;vposDb;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="mail;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f4;64;9;64;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="name;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f4;63;9;63;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;62;9;62;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="name;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f4;63;9;63;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;62;9;62;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;62;9;62;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="pass;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f4;65;9;65;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="results;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f4;68;12;68;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;67;12;67;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="results;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f4;68;12;68;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;67;12;67;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;67;12;67;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f12;62;17;62;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f12;62;17;62;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f12;62;17;62;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="user;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f24;60;29;60;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f24;60;29;60;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="user;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f24;60;29;60;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f24;60;29;60;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f24;60;29;60;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="wood;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;63;9;63;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="wood;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;63;9;63;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;63;9;63;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
-				<treenode node="_update;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f10;72;3;91;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f10;71;3;89;;;;vpos;;v;;r;;d33,71;;b3,0;;mitem;;p">
-					<treenode node="dateCreated;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;75;16;75;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="_update;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f10;72;3;91;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f10;71;3;90;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f10;71;3;90;;;;vpos;;v;;r;;d33,71;;b3,0;;mitem;;p">
+					<treenode node="dateCreated;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;76;16;76;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;76;16;76;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="dateSold;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f6;78;15;78;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="dateSold;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f6;79;15;79;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f6;79;15;79;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="db;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f4;73;7;73;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="id;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f134;84;137;84;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="id;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;73;7;73;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;73;7;73;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="item;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f27;71;32;71;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="item;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f27;71;32;71;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f27;71;32;71;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="mail;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f4;77;9;77;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="name;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f4;76;9;76;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;73;9;73;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="name;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f4;76;9;76;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;74;9;74;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;74;9;74;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="pass;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f6;80;11;80;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="results;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f6;86;14;86;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f6;84;14;84;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="results;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f6;86;14;86;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f6;85;14;85;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f6;85;14;85;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f12;73;17;73;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f12;74;17;74;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f12;74;17;74;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="uid;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f4;75;8;75;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="user;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f27;72;32;72;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="wood;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;74;9;74;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="wood;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;75;9;75;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f4;75;9;75;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
-				<treenode node="delete;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f9;93;3;101;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f9;91;3;97;;;;vpos;;v;;r;;d30,91;;b1,0;;marg;;p">
-					<treenode node="arg;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f25;93;29;93;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f25;91;29;91;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="delete;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f9;93;3;101;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f9;92;3;97;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f9;92;3;97;;;;vpos;;v;;r;;d29,92;;b1,0;;mid;;p">
+					<treenode node="arg;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f25;93;29;93;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="db;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f6;97;9;97;;;;vposDb;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="id;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f6;95;9;95;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="id;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f25;92;28;92;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f25;92;28;92;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="results;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f6;100;14;100;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f6;96;14;96;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="results;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f6;100;14;100;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f6;96;14;96;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f6;96;14;96;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f12;95;17;95;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f17;96;22;96;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f17;96;22;96;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="uid;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f6;99;10;99;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
-				<treenode node="getAllStock;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f8;29;2;45;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f8;29;2;45;;;;vpos;;v;;r;;d1,30;;b1,0;;m">
-					<treenode node="item;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f3;38;8;38;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f3;38;8;38;;;;vposStockItem;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="getAllStock;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f8;29;2;45;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f8;29;2;45;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f8;29;2;45;;;;vpos;;v;;r;;d1,30;;b1,0;;m">
+					<treenode node="item;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f3;38;8;38;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f3;38;8;38;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f3;38;8;38;;;;vposStockItem;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="result;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f22;36;29;36;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f22;36;29;36;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="result;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f22;36;29;36;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f22;36;29;36;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f22;36;29;36;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="results;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f7;34;15;34;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f7;34;15;34;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="results;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f7;34;15;34;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f7;34;15;34;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f7;34;15;34;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="stock;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f2;33;8;33;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f2;33;8;33;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="stock;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f2;33;8;33;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f2;33;8;33;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f2;33;8;33;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f18;34;23;34;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f18;34;23;34;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
-					</treenode>
-				</treenode>
-				<treenode node="getStockItem;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f10;10;2;27;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f10;10;2;27;;;;vpos;;v;;r;;d3,11;;b1,0;;mitemId;;p">
-					<treenode node="id;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f7;17;10;17;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f7;17;10;17;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
-					</treenode>
-					<treenode node="item;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f3;21;8;21;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f3;21;8;21;;;;vposStockItem;;v;;r;;d-1,-1;;b0,0;;m">
-					</treenode>
-					<treenode node="itemId;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f32;10;39;10;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f32;10;39;10;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
-					</treenode>
-					<treenode node="result;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f25;20;32;20;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f25;20;32;20;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
-					</treenode>
-					<treenode node="results;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f7;18;15;18;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f7;18;15;18;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
-					</treenode>
-					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f13;17;18;17;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f13;17;18;17;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f18;34;23;34;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f18;34;23;34;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f18;34;23;34;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
-				<treenode node="save;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f8;47;3;58;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f8;47;3;58;;;;vpos;;v;;r;;d1,48;;b1,0;;mstockItem;;p">
-					<treenode node="stockItem;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f22;47;32;47;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f22;47;32;47;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="getStockItem;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f10;10;2;27;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f10;10;2;27;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f10;10;2;27;;;;vpos;;v;;r;;d3,11;;b1,0;;mitemId;;p">
+					<treenode node="id;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f7;17;10;17;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f7;17;10;17;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f7;17;10;17;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f3;52;8;52;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f3;52;8;52;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="item;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f3;21;8;21;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f3;21;8;21;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f3;21;8;21;;;;vposStockItem;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="itemId;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f32;10;39;10;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f32;10;39;10;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f32;10;39;10;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="result;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f25;20;32;20;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f25;20;32;20;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f25;20;32;20;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="results;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f7;18;15;18;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f7;18;15;18;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f7;18;15;18;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f13;17;18;17;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f13;17;18;17;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f13;17;18;17;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
-				<treenode node="_db;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f9;4;13;4;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f9;4;13;4;;;;vpos;;v;;r;;d-1,-1;;b3,0;;m">
+				<treenode node="save;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f8;47;3;58;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f8;47;3;58;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f8;47;3;58;;;;vpos;;v;;r;;d1,48;;b1,0;;mstockItem;;p">
+					<treenode node="stockItem;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f22;47;32;47;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f22;47;32;47;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f22;47;32;47;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="this;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f3;52;8;52;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f3;52;8;52;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f3;52;8;52;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="_db;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\user_manager.class.php;f9;4;13;4;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f9;4;13;4;;C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php;f9;4;13;4;;;;vpos;;v;;r;;d-1,-1;;b3,0;;m">
 				</treenode>
 			</treenode>
 			<treenode node="dump;PHP:Function Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\common\Helpers.php;f1;2;2;7;;;;vpos;;v;;r;;d1,3;;b0,0;;mdataToDump;;p">
@@ -272,11 +315,11 @@
 			</treenode>
 			<treenode node="arr;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\tracker.php;f10;45;14;45;;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f10;40;14;40;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="item;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\tracker.php;f10;22;15;22;;C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockViewList.php;f26;7;31;7;;C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockItemView.php;f10;6;15;6;;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f10;20;15;20;;C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockAddEdit.php;f44;7;49;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="item;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\tracker.php;f10;22;15;22;;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f10;20;15;20;;C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockViewList.php;f26;15;31;15;;C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockAddEdit.php;f44;7;49;7;;C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockItemView.php;f10;6;15;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="items;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\tracker.php;f10;58;16;58;;C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockViewList.php;f16;7;22;7;;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f10;53;16;53;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="items;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\tracker.php;f10;58;16;58;;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f10;53;16;53;;C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockViewList.php;f16;15;22;15;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="pageTitle;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\common\header.php;f19;3;29;3;;C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockViewList.php;f1;2;11;2;;C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockItemView.php;f1;1;11;1;;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f1;1;11;1;;C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockAddEdit.php;f1;1;11;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="pageTitle;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f1;1;11;1;;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\common\header.php;f19;3;29;3;;C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockViewList.php;f1;2;11;2;;C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockAddEdit.php;f1;1;11;1;;C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockItemView.php;f1;1;11;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="stockManager;PHP:Var Name;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\tracker.php;f6;18;19;18;;C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php;f6;16;19;16;;;;vposStockManager;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
@@ -302,14 +345,14 @@
 	<filescache>
 		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\css\base.css" crc="-1699161073"/>
 		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\common\Helpers.php" crc="-1421290701"/>
-		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\common\header.php" crc="315727226"/>
+		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\common\header.php" crc="-1818085628"/>
 		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\common\footer.php" crc="19175505"/>
 		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\webroot\stockTracker.php" crc="1997642208"/>
-		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockViewList.php" crc="225559944"/>
-		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockItemView.php" crc="538352207"/>
-		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockAddEdit.php" crc="-793048419"/>
-		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php" crc="1414287905"/>
-		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php" crc="-571645409"/>
+		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockViewList.php" crc="991665825"/>
+		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockItemView.php" crc="92427117"/>
+		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\views\stockAddEdit.php" crc="-414812360"/>
+		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockManager.class.php" crc="1838645777"/>
+		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\models\stockItem.class.php" crc="851314709"/>
 		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\models\manager.abstract.php" crc="-2134923775"/>
 		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.interface.php" crc="-1583114775"/>
 		<file name="C:\xampp\htdocs\WebLab\weblab-woodcraft\lib\db.class.php" crc="-1048094459"/>

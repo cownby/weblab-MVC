@@ -25,7 +25,7 @@
   <?php } ?>
 </table>   
 <br><br>
-<a href='stockTracker.php?action=add_item' class='button'>Add New item</a>
+<a href='stockTracker.php?action=add_item' class='btn'>Add New item</a>
  
     
     

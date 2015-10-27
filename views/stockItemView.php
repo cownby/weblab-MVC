@@ -11,8 +11,8 @@
   <li><?= $item->getDateSold() ?></li>
 </ul>
 
-<a href='stockTracker.php' class='button'>View All Stock</a> 
-<a href='stockTracker.php?action=delete_item&target=<?= $item->getID() ?>' class='button'>Delete This Item</a>
-<a href='stockTracker.php?action=edit_item&target=<?= $item->getID() ?>' class='button'>Edit This Item</a>
+<a href='stockTracker.php' class='btn'>View All Stock</a> 
+<a href='stockTracker.php?action=delete_item&target=<?= $item->getID() ?>' class='btn'>Delete This Item</a>
+<a href='stockTracker.php?action=edit_item&target=<?= $item->getID() ?>' class='btn'>Edit This Item</a>
 
 

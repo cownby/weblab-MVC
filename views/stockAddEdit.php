@@ -7,17 +7,7 @@
 <form action="stockTracker.php" method="get">
   <input type="hidden" name="id" value="<?= $item->getID() ?>">
   <input type="hidden" name="action" value="save_item">
-
-<?php
-/*
-	$_createDate = $item->getDateCreated();
-	$_createDateStr = $_createDate->format(m-d-Y);
-
-	$_soldDate = $item->getDateSold();
-	$_soldDateStr = $_soldDate->format(m-d-Y);
-*/
-?>
-  
+ 
   <label>Name: </label>
   	<input type="text" name="name" value="<?= $item->getName() ?>"><br  />
   <label>Wood: </label>
@@ -28,6 +18,6 @@
   	<input type="text" name="dateSold" value="<?= $item->getDateSold(); ?>"><br  />
   
   <br  />
-  <input type="submit" value="Save"  class='button'>
+  <input type="submit" value="Save"  class='btn'>
   
 </form>
